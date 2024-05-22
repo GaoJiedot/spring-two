@@ -1,0 +1,7 @@
+# Project exclude paths
+/ch3-spring-diappliction/target/
+/ch4-spring-instance/target/
+/ch5-spring-zp-appliction/target/
+/ch6-spring-aop-xml/target/
+/ch7-spring-aop/target/
+/experiment-10/target/

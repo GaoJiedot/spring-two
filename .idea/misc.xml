@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/ch2-spring-gouzao-di" />
+    <file type="web" url="file://$PROJECT_DIR$/ch6-spring-aop-xml" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ch1-spring-hellow/pom.xml" />
+        <option value="$PROJECT_DIR$/ch3-spring-diappliction/pom.xml" />
+        <option value="$PROJECT_DIR$/ch4-spring-instance/pom.xml" />
+        <option value="$PROJECT_DIR$/ch5-spring-zp-appliction/pom.xml" />
+        <option value="$PROJECT_DIR$/ch6-spring-aop-xml/pom.xml" />
+        <option value="$PROJECT_DIR$/ch7-spring-aop/pom.xml" />
+        <option value="$PROJECT_DIR$/experiment-10/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

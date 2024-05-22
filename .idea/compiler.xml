@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="experiment-10" />
+        <module name="ch1-spring-hellow" />
+        <module name="ch6-spring-aop-xml" />
+        <module name="ch5-spring-zp-appliction" />
+        <module name="ch4-spring-instance" />
+        <module name="ch3-spring-diappliction" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ch1-spring-hello" target="1.5" />
+      <module name="ch2-spring-gouzao-di" target="1.8" />
+      <module name="ch7-spring-aop-anno" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
